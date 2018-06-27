@@ -8,3 +8,6 @@
 ## EM branch
 - [ ] Computerize Unit 1. _Due on the_ **28th June, 2018**
 - [ ] Computerize Unit 2. _Due on the_  **5th July, 2018**
+
+## EN branch
+- [ ] Find out the most recent English exam mark, on the 29th.
