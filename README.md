@@ -1,5 +1,8 @@
 # lunitition
 
+[![GitHub license](https://img.shields.io/github/license/sweetfirekitsune/lunitition.svg)](https://github.com/sweetfirekitsune/lunitition/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/sweetfirekitsune/lunitition.svg)](https://github.com/sweetfirekitsune/lunitition/issues)
+
 ## IM branch
 
 - [X] Create an indepth documentation about the client, their history, current website and rivals. [Linked here](https://github.com/sweetfirekitsune/lunitition/blob/master/IM/Client%20%26%20Rival%20Research.odt)
