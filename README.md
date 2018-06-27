@@ -1,7 +1,8 @@
 # lunitition
 
-[![GitHub license](https://img.shields.io/github/license/sweetfirekitsune/lunitition.svg)](https://github.com/sweetfirekitsune/lunitition/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/sweetfirekitsune/lunitition.svg)](https://github.com/sweetfirekitsune/lunitition/issues)
+![https://github.com/sweetfirekitsune/lunitition/blob/master/LICENSE](https://img.shields.io/github/license/sweetfirekitsune/lunitition.svg)
+
+![https://github.com/sweetfirekitsune/lunitition/issues](https://img.shields.io/github/issues/sweetfirekitsune/lunitition.svg)
 
 ## IM branch
 
