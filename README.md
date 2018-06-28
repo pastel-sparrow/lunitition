@@ -7,7 +7,7 @@
 ## IM branch
 
 - [X] Create an indepth documentation about the client, their history, current website and rivals. [Linked here](https://github.com/sweetfirekitsune/lunitition/blob/master/IM/Client%20%26%20Rival%20Research.odt)
-- [X] Created the blueprint of the current website layout. [Linked here](https://github.com/sweetfirekitsune/lunitition/blob/master/IM/00_img.png) _Due on the_ **29th of June, 2018**
+- [X] Created the blueprint of the current website layout. [Linked here](https://github.com/sweetfirekitsune/lunitition/blob/master/IM/00_img.png)
 - [ ] Created the first custom layout for the website. [Linked here](https://github.com/sweetfirekitsune/lunitition/blob/master/IM/01_img.png) _Due on the_ **29th of June, 2018**
 - [ ] Created the second custom layout for the website. [Linked here](https://github.com/sweetfirekitsune/lunitition/blob/master/IM/02_img.png) _Due on the_ **29th of June, 2018**
 - [ ] Created the final custom layout for the website. [Linked here](https://github.com/sweetfirekitsune/lunitition/blob/master/IM/03_img.png) _Due on the_ **29th of June, 2018**
